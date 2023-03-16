@@ -5,7 +5,7 @@ function LeerDatos(){
     nombre =document.getElementById('nombre').value
     correo =document.getElementById('correo').value
     mensaje =document.querySelector('#textarea').value
-    console.log(nombre)z
+    console.log(nombre)
 }
 
 
